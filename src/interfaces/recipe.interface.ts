@@ -8,5 +8,4 @@ export interface Recipe {
   }[];
   steps: string[];
   category?: string;
-  createdAt?: Date;
 }
